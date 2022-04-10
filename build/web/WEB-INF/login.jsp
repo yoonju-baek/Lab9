@@ -14,6 +14,6 @@
             <input type="submit" value="Sign in">
         </form>
             
-            <a href="forgot">Forgot password?</a>
+        <a href="forgot">Forgot password?</a>
     </body>
 </html>
